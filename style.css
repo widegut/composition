@@ -1,0 +1,16 @@
+div {
+    background-color: aqua;
+    background-position: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px ;
+    padding: 20px 0px 20px 60px ;
+    border-radius: 15%;
+    
+}
+p { 
+    
+}
+.topic {
+    color: gray; 
+    
+}
